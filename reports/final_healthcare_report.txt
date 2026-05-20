@@ -1,0 +1,54 @@
+
+HEALTHCARE REAL-WORLD DATA ANALYSIS REPORT
+==========================================
+
+PROJECT OBJECTIVE
+-----------------
+Perform healthcare data analysis and
+machine learning prediction using
+real-world healthcare datasets.
+
+DATA CLEANING PERFORMED
+-----------------------
+- Handled missing values
+- Removed duplicates
+- Converted date columns
+- Performed label encoding
+- Feature engineering
+
+ANALYSIS PERFORMED
+------------------
+- Statistical summaries
+- Correlation analysis
+- Distribution analysis
+- Billing analysis
+- Machine learning prediction
+
+MACHINE LEARNING MODELS USED
+----------------------------
+1. Linear Regression
+2. Decision Tree Regressor
+3. Random Forest Regressor
+
+KEY INSIGHTS
+-------------
+- Patient billing trends analyzed
+- Age distributions identified
+- Correlations between healthcare factors observed
+- Machine learning models compared
+
+TECHNOLOGIES USED
+-----------------
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+PROJECT OUTCOME
+---------------
+Applied data science skills in a
+real-world healthcare domain using
+data analysis, visualization, and
+machine learning techniques.
